@@ -1,0 +1,44 @@
+body {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    font-family: arial;
+    height: 98.29vh;
+    justify-content: center;
+}
+
+button {
+    width: 100px;
+    background-color: #3F51B5;
+    color: #FFF;
+    border: none;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+form {
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.playButton {
+    margin-top: 10vh;
+}
+
+.subtitles {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#block-player {
+    position: absolute;
+    width: 100%;
+    height: 60vh;
+    top: 11vh;
+}

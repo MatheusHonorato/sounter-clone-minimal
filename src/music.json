@@ -1,0 +1,56 @@
+{
+    "Edu FALASCHI - Sacrifice": {
+        "videoId": "Ae93zACOASY" ,
+        "subtitles": [
+            { 
+                "complete": "Edu FALASCHI - Sacrifice",
+                "question": "Edu FALASCHI - Sacrifice",
+                "time": 0.0,
+                "options": null,
+                "response": null
+            },
+            { 
+                "complete": "Spirits sings a spell? Creatures from the Moon",
+                "question": "Spirits sings a spell? Creatures from the Moon",
+                "time": 1.6,
+                "options": null,
+                "response": null
+            },
+            {
+                "complete": "What's all that meaning? What's all that screaming?",
+                "question": "... all that meaning? What's all that screaming?",
+                "time": 1.14,
+                "options": ["What's", "Are", "You"],
+                "response": "What's"
+            },
+            {
+                "complete": "The ocean brings the hell",
+                "question": "The ocean brings the hell",
+                "time": 1.18,
+                "options": null,
+                "response": null
+            },
+            {
+                "complete": "Shadows in the night, strangers from the sea",
+                "question": "Shadows in the night, strangers from the sea",
+                "time": 1.22,
+                "options": null,
+                "response": null
+            },
+            {
+                "complete": "Serpents are crawling, gods of the north wind?",
+                "question": "Serpents are crawling, ... of the north wind?",
+                "time": 1.29,
+                "options": ["gods", "blue", "have"],
+                "response": null
+            },
+            {
+                "complete": "Are they gods of death?",
+                "question": "Are they gods of death?",
+                "time": 1.34,
+                "options": null,
+                "response": null
+            }
+        ]
+    }
+}

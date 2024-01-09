@@ -1,0 +1,26 @@
+{
+  "name": "sounter-clone-minimal",
+  "version": "1.0.0",
+  "description": "Sounter Clone - Minimal Version",
+  "main": "index.js",
+  "scripts": {
+    "css-minify": "css-minify --dir assets/css --output dist/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Honorato",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "css-minify": "^2.0.0",
+    "gulp-cli": "^2.3.0"
+  }
+}
