@@ -42,3 +42,9 @@ form {
     height: 70vh;
     top: 5vh;
 }
+
+@media (max-width: 500px) {
+    #block-player {
+        height: 60vh;
+    }
+}
