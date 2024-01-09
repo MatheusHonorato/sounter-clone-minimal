@@ -44,7 +44,7 @@ form {
 }
 
 @media (max-width: 500px) {
-    #block-player {
-        height: 60vh;
+    .playButton {
+        margin-top: 10vh;
     }
 }
