@@ -1,4 +1,4 @@
-const BASE_URL = 'http://127.0.0.1:5500/';
+const BASE_URL = 'https://matheushonorato.github.io/sounter-clone-minimal/';
 
 // eslint-disable-next-line no-unused-vars
 const api = async (url) => {
